@@ -1,0 +1,21 @@
+img {
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: blue;
+    display:inline-block;
+    vertical-align:middle;
+  }
+
+  .footer {
+  bottom: 5%;
+  position: absolute;
+  left: 50%;
+}
+
+a {
+  text-decoration: none;
+}
+
+div, h5, h6 {
+  text-align: center;
+}
