@@ -1,2 +1,2 @@
 #Armatrong Ngolo
-https://armstrong.ngolo.me
+https://arngolo.github.io/homepage/
