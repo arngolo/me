@@ -34,7 +34,7 @@ function add_content() {
 
     document.querySelector('footer').innerHTML = `
     <div style="text-align:center">
-        <a href="https://orcid.org/my-orcid?orcid=0000-0002-9737-2307"><img alt="ORCID logo" src="orcid_icon.png" width="16" height="16" /></a>
+        <a href="https://orcid.org/0000-0002-9737-2307"><img alt="ORCID logo" src="orcid_icon.png" width="16" height="16" /></a>
         <a href="https://www.linkedin.com/in/armstrong-ngolo-3161a6103/"><span class="iconify" data-icon="bi:linkedin"></span></a>
     </div>
     `
