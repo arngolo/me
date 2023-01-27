@@ -23,7 +23,7 @@ function add_content() {
                     <a class="navbar-brand" href="publications.html">Publications</a>
                 </li>
                 <li class="nav-item">
-                    <a class="navbar-brand" href="https://github.com/arngolo">github</a>
+                    <a class="navbar-brand" href="github.html">github</a>
                 </li>
                 <li class="nav-item">
                     <a class="navbar-brand" href="hobbies.html">Hobbies</a>
