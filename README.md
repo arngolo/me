@@ -1,3 +1,3 @@
 # Armatrong Ngolo
 
-https://arngolo.github.io/homepage/
+https://arngolo.github.io/me/
